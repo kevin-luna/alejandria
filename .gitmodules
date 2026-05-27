@@ -1,0 +1,6 @@
+[submodule "alejandria-contracts"]
+	path = alejandria-contracts
+	url = git@github.com:kevin-luna/alejandria-contracts.git
+[submodule "alejandria-frontend"]
+	path = alejandria-frontend
+	url = git@github.com:kevin-luna/alejandria-frontend.git
